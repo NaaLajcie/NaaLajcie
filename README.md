@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bartosz
 ===============================================================================================================================
 
-Founder and Lead Programmer in <a href="https://discord.gg/8RjCFWdn" target="_blank">Nalajcie Store</a>.</h4>
+Founder and Lead Programmer in <a href="https://discord.gg/7ebbY9FSwU" target="_blank">Nalajcie Store</a>.</h4>
 ------------------------------------------
 
 i love code!!
