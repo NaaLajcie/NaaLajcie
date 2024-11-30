@@ -9,7 +9,7 @@ i love code!!
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [My website](http://nalajcie.pl)
 * ✉️  You can contact me at [nalajciedevelopment@gmail.com](mailto:nalajciedevelopment@gmail.com)
-* 🧠  LUA, HTML, CSS, JS and more
+* 🧠  LUA, HTML, JS and more
 * 🤝  I'm open to collaborating on with different fivem servers
 * ⚡  Quote: "I know that life is not easy, but fight for your dreams so that you never regret anything later"
 
