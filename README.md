@@ -37,6 +37,11 @@ i love code!!
 </a>
 </p>
 
+<a href="https://discord.gg/7ebbY9FSwU">
+  <img src="https://invite.casperiv.dev?inviteCode=7ebbY9FSwU&locale=en" />
+</a>
+
+
 ### Skills
 
 <p align="left">
