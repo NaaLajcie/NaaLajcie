@@ -7,7 +7,7 @@ Founder and Lead Programmer in <a href="https://discord.gg/7ebbY9FSwU" target="_
 i love code!!
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [My website](http://nalajcie.pl)
+* 🖥️  See my portfolio at [My website](http://nscripts.svpj.pl/)
 * ✉️  You can contact me at [nalajciedevelopment@gmail.com](mailto:nalajciedevelopment@gmail.com)
 * 🧠  LUA, HTML, JS and more
 * 🤝  I'm open to collaborating on with different fivem servers
